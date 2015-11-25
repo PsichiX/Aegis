@@ -27,4 +27,4 @@ for arg in ${@}; do
 done
 
 cd ./server/
-./AegisServer.exe -t ${TOKEN} -ep ${EYEPORT} -cp ${CONPORT} -aa yes -s no
+./AegisServer.exe -t ${TOKEN} -ep ${EYEPORT} -cp ${CONPORT} -aa yes -s no -tr 20
