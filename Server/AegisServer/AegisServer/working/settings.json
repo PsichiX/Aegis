@@ -1,0 +1,8 @@
+{
+  "EyePort": 8081,
+  "ControllerPort": 8082,
+  "Treshold": 16,
+  "ArmedAlarm": true,
+  "Silent": false,
+  "Token": "test                                                            "
+}

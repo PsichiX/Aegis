@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalViewer", "LocalViewer\LocalViewer.csproj", "{4D579C5C-02D1-46A5-A44D-7FE13B419592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetControllerAPI", "..\..\ControllerAPI\DotNetControllerAPI\DotNetControllerAPI\DotNetControllerAPI.csproj", "{CC15F845-A95B-4427-AE0C-627A143A7764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D579C5C-02D1-46A5-A44D-7FE13B419592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D579C5C-02D1-46A5-A44D-7FE13B419592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D579C5C-02D1-46A5-A44D-7FE13B419592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D579C5C-02D1-46A5-A44D-7FE13B419592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC15F845-A95B-4427-AE0C-627A143A7764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC15F845-A95B-4427-AE0C-627A143A7764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC15F845-A95B-4427-AE0C-627A143A7764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC15F845-A95B-4427-AE0C-627A143A7764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
